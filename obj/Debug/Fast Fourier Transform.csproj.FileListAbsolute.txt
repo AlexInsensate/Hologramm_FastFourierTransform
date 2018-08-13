@@ -1,0 +1,29 @@
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.csprojResolveAssemblyReference.cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Interop.VBRUN.dll
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\bin\Debug\Fast Fourier Transform.exe
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\bin\Debug\Fast Fourier Transform.pdb
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\bin\Debug\Interop.VBRUN.dll
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.csproj.ResolveComReference.cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast_Fourier_Transform.Properties.Resources.resources
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.csproj.GenerateResource.Cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.exe
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.pdb
+C:\Users\AlexPC\Desktop\Fast Fourier Transform\obj\Debug\Fast_Fourier_Transform.MainFrm.resources
+D:\PREPODSTVO\2017\Churkin\fftend\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.csprojResolveAssemblyReference.cache
+D:\PREPODSTVO\2017\Churkin\fftend\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.exe
+D:\PREPODSTVO\2017\Churkin\fftend\Fast Fourier Transform\obj\Debug\Fast Fourier Transform.pdb
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Interop.VBRUN.dll
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.csproj.ResolveComReference.cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.exe
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.pdb
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\bin\Debug\Fast Fourier Transform.exe
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\bin\Debug\Fast Fourier Transform.pdb
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\bin\Debug\Interop.VBRUN.dll
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.csprojResolveAssemblyReference.cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast_Fourier_Transform.MainFrm.resources
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast_Fourier_Transform.Properties.Resources.resources
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.csproj.GenerateResource.Cache
+C:\Users\AlexPC\Desktop\КСУ - 41\Fast Fourier Transform_newReverse\obj\Debug\Interop.VBRUN.dll
+C:\Users\AlexPC\Desktop\КСУ - 41\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.csproj.ResolveComReference.cache
+C:\Users\AlexPC\Desktop\КСУ - 41\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.exe
+C:\Users\AlexPC\Desktop\КСУ - 41\Fast Fourier Transform_newReverse\obj\Debug\Fast Fourier Transform.pdb

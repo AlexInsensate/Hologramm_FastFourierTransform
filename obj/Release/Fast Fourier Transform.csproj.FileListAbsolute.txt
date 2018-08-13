@@ -1,0 +1,6 @@
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Release\Interop.VBRUN.dll
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Release\Fast Fourier Transform.csproj.ResolveComReference.cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Release\Fast Fourier Transform.csprojResolveAssemblyReference.cache
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Release\Fast_Fourier_Transform.MainFrm.resources
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Release\Fast_Fourier_Transform.Properties.Resources.resources
+C:\Users\AlexPC\Desktop\Fast Fourier Transform_newReverse\obj\Release\Fast Fourier Transform.csproj.GenerateResource.Cache
